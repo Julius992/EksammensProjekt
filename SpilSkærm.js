@@ -57,9 +57,9 @@ class SpilSkærm {
             fill(0);
             text(this.roundTimer, width/2, 40)
         }
-        fill(255,153,153);
+        fill(0);
         textSize(30);
-
+        
         text("Round:" + this.round, 100, 40)
         for (let i = 0; i < this.enemies.length; i += 1) {
             this.enemies[i].run();
