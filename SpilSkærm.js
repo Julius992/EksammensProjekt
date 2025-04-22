@@ -54,6 +54,7 @@ class SpilSkærm {
         }
         textAlign(CENTER);
         if (this.roundTimer > 0){
+            fill(0);
             text(this.roundTimer, width/2, 40)
         }
         fill(255,153,153);
