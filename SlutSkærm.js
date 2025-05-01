@@ -2,9 +2,9 @@
 class SlutSkærm {
 
     constructor() {
-      this.R =10;
-      this.G =10;
-      this.B = 10;
+      this.R =100;
+      this.G =100;
+      this.B = 100;
     }
     run () {
       background(this.R,this.G,this.B)
