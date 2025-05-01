@@ -7,8 +7,7 @@ class Player {
         this.dmg = 100;
         this.haste = 0;
         this.x = 100;
-        this.slot1X = 250;
-        this.slot1Y = 260;
+
         this.y = 100;
         this.speed = 100;
         this.atkspd = 0;
