@@ -7,7 +7,6 @@ class Player {
         this.dmg = 100;
         this.haste = 0;
         this.x = 100;
-
         this.y = 100;
         this.speed = 100;
         this.atkspd = 0;
